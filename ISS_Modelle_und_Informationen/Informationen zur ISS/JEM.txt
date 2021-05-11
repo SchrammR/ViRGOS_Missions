@@ -1,0 +1,12 @@
+A Japanese science module developed by JAXA, also know as Kibo 'Hope'. It is the largest single ISS module. Kibo consists of six major elements: 1) Pressurized Module (PM), 2) Exposed Facility (EF), 3) Experiment Logistics Module-Pressurized Section (ELM-PS), 4) Experiment Logistics Module-Exposed Section (ELM-ES), 5) Japanese Experiment Module Remote Manipulator System (JEM-RMS), and 6) Inter-orbit Communication System (ICS).
+
+The Pressurized Module (PM) is the core component connected to the port hatch of the Node 2 Module. It is cylindrical in shape and contains twenty-three International Standard Payload Racks (ISPRs), ten of which are dedicated to science experiments while the remaining 13 are dedicated to Kibos systems and storage. The end of the JEM-PM has an airlock and two window hatches. The Exposed Facility, Experiment Logistics Module and the Remote Manipulator System all connect to the pressurized module. Kibo is also the location for many of the press conferences that take place on board the station.
+
+The Remote Manipulator System (JEM-RMS) is a 10 m long robotic arm, mounted at the port cone of the PM, intended to service the EF and to move equipment from and to the ELM. The free end of the arm is able to use the type of grapple fixtures that the Canadarm2 uses.
+
+The Exposed Facility (EF), also known as 'Terrace', is located outside the port cone of the PM (which is equipped with an airlock). The EF has 12 EFU (Exposed Facility Unit) ports that attach to PIU (Payload Interface Unit) connectors on EF-EEUs (EF-Equipment Exchange Units). All experiment payloads are fully exposed to the space environment. For proper functioning of these experiments, the payload requires an ORU (Orbital Replacement Unit) which consists of the EPS (Electrical Power System), CT (Communications & Tracking) and the TCS (Thermal Control System).
+
+The Japanese Experiment Logistics Module, Pressurized Section (ELM-PS), also called the JLP, is a pressurized addition to the PM. The module is a storage facility that provides storage space for experiment payloads, samples and spare items. The unpressurized (external) section (ELM-ES) serves the EF as a storage and transportation module.
+
+
+https://www.turbosquid.com/de/3d-models/c4d-iss-japanese-module-jem/1135806
